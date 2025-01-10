@@ -12,3 +12,5 @@ conda activate venv/
 pip install -r requirements.txt
 
 streamlit run app.py
+
+pip install streamlit google-generativeai scikit-learn pandas PyPDF2 python-dotenv
